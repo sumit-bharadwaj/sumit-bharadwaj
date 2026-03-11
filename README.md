@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **java, cloud computing**
+- 🌱 I’m currently learning **Power BI, cloud Generative AI**
 
 - 📫 How to reach me **sumtdubeybharadwaj@gmail.com**
 
