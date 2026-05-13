@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI, Generative AI, Advance MS Excel**
 
-- 📫 How to reach me **sumtdubeybharadwaj@gmail.com**
+- 📫 How to reach me **sumitdubeybharadwaj@gmail.com**
 
 - ⚡ Fun fact **I think like to read gothic novels**
 
